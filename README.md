@@ -6,7 +6,7 @@
 
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.work)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-ChatGPT 中文版：**[gptcat.net](https://gptcat.net)**   
+ChatGPT 中文版：**[gptcat.cc](https://gptcat.cc)**   
 ChatGPT 镜像网站：**[snakegpt.work](https://snakegpt.work)**
 
 ---
@@ -42,7 +42,7 @@ ChatGPT 镜像网站：**[snakegpt.work](https://snakegpt.work)**
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [snakegpt.work](https://snakegpt.work)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [gptcat.net](https://gptcat.net)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
