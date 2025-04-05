@@ -2,9 +2,9 @@
 
 > **更新时间： 2025/04/05**      
 
-本文提供全面的 **[ChatGPT 中文版](https://snakegpt.work)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.work)**，提升工作效率。
+本文提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.chat)**，提升工作效率。
 
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.work)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 ChatGPT 中文版：**[gptcat.cc](https://gptcat.cc)**   
 ChatGPT 镜像网站：**[snakegpt.chat](https://snakegpt.chat)**
@@ -26,7 +26,7 @@ ChatGPT 镜像网站：**[snakegpt.chat](https://snakegpt.chat)**
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://snakegpt.work)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[ChatGPT 中文版](https://snakegpt.chat)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -87,7 +87,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [snakegpt.work](https://snakegpt.work)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [snakegpt.chat](https://snakegpt.chat)）。
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
