@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【5月最新】 
 
-> **更新时间： 2025/06/14**        
+> **更新时间： 2025/06/15**        
 
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.com.cn)**，提升工作效率。
 
